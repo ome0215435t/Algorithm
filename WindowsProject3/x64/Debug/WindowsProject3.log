@@ -1,5 +1,0 @@
-﻿  WindowsProject3.c
-C:\Users\blues\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.c(154,37): warning C4129: '}': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
-C:\Users\blues\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.c(223,33): warning C4476: '_swprintf' : 서식 지정자에 알 수 없는 형식 필드 문자 ']'이(가) 있습니다.
-C:\Users\blues\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.c(468,22): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  WindowsProject3.vcxproj -> C:\Users\blues\source\repos\WindowsProject3\x64\Debug\WindowsProject3.exe
